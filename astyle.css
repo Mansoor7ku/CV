@@ -1,7 +1,7 @@
 body{
   margin: 0;
   padding: 0;
-  font-size: 1.2rem;
+  /*font-size: 1.2rem;*/
   line-height: 2;
   background-color: #EDEDED;
   text-align: justify;
@@ -25,7 +25,7 @@ a:hover{
   padding: 50px 0 20px;
   margin: auto;
   text-align: center;
-  font-size: 1rem;
+  /*font-size: 1rem;*/
 }
 .footer-link {
   color: #11999E;
